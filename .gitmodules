@@ -1,0 +1,3 @@
+[submodule "ordering"]
+	path = ordering
+	url = git@github.com:Yasminvizeu/Estrutura-de-dados.git
